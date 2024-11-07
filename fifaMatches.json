@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "team1": {
+      "name": "Team A",
+      "photo": "https://link-to-team1-photo.com"
+    },
+    "team2": {
+      "name": "Team B",
+      "photo": "https://link-to-team2-photo.com"
+    },
+    "championship": "FIFA Championship",
+    "startTime": "2024-11-07T15:00:00Z",  // Heure de début UTC du match
+    "preGameBetting": true
+  },
+  {
+    "id": "2",
+    "team1": {
+      "name": "Team C",
+      "photo": "https://link-to-team1-photo.com"
+    },
+    "team2": {
+      "name": "Team D",
+      "photo": "https://link-to-team2-photo.com"
+    },
+    "championship": "FIFA World Cup",
+    "startTime": "2024-11-08T18:00:00Z",
+    "preGameBetting": true
+  }
+]
