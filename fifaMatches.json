@@ -10,7 +10,7 @@
       "photo": "https://link-to-team2-photo.com"
     },
     "championship": "FIFA Championship",
-    "startTime": "2024-11-07T15:00:00Z",  // Heure de début UTC du match
+    "startTime": "2024-11-07T15:00:00Z",
     "preGameBetting": true
   },
   {
