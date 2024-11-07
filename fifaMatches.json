@@ -3,11 +3,11 @@
     "id": "1",
     "team1": {
       "name": "Team A",
-      "photo": "https://link-to-team1-photo.com"
+      "photo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png"
     },
     "team2": {
       "name": "Team B",
-      "photo": "https://link-to-team2-photo.com"
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png"
     },
     "championship": "FIFA Championship",
     "startTime": "2024-11-07T15:00:00Z",
@@ -17,11 +17,11 @@
     "id": "2",
     "team1": {
       "name": "Team C",
-      "photo": "https://link-to-team1-photo.com"
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqikq0nfhslIUCQhV6HGWIt8sV_0ZXvvciA&s"
     },
     "team2": {
       "name": "Team D",
-      "photo": "https://link-to-team2-photo.com"
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyAoY9wMp4xyKn2GDBSWccSR1l6MGHiMwbg&s"
     },
     "championship": "FIFA World Cup",
     "startTime": "2024-11-08T18:00:00Z",
